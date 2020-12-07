@@ -36,3 +36,13 @@
 * nuevoPedido
 * actualizarPedido
 * eliminarPedido
+
+## Iniciar
+
+#### Instalar dependencias
+npm install
+#### Crear base de datos local en mongoDB
+
+#### Iniciar servidor
+npm run dev
+Ejemplo -> http://localhost:4000/
